@@ -1,0 +1,3 @@
+[submodule "dataset/wgisd"]
+	path = dataset/wgisd
+	url = https://github.com/thsant/wgisd.git
